@@ -121,13 +121,13 @@
     <script type="text/javascript" src="Main.js"></script>
     <script language="javascript" type="text/javascript">
         mensaje =
-'<font size="6" face="Courier New" color="#fff">Những lá thư chưa gửi....<br></font>' + ' <br>' +
+'<font size="6" face="Courier New" color="#fff">Gửi Mon <3 ....<br></font>' + ' <br>' +
 
-'<font color="#fff" size="4">Anh không phải người hoàn hảo,anh hậu đậu anh vô tâm... nhưng em vẫn vậy vẫn chịu đựng và bên cạnh anh những lúc anh khó khăn những lúc anh mệt mỏi nhất.Cảm ơn em. Đối với anh, em là người con gái anh yêu nhất, người con gái đáng yêu xinh đẹp nhất, em cũng là người yêu anh và quan tâm anh,.. Em hoàn hảo lắm. Thương em lắm nè</font><br>' +
+'<font color="#fff" size="4">Anh không phải người hoàn hảo,anh hậu đậu anh vô tâm... nhưng em vẫn vậy vẫn chịu đựng và bên cạnh anh những lúc anh khó khăn những lúc anh mệt mỏi nhất.Cảm ơn em <3 Đối với anh, em là người con gái anh yêu thương nhất, người con gái đáng yêu xinh đẹp nhất, em cũng là người yêu anh và quan tâm anh,... Em hoàn hảo lắm. Thương em lắm nè</font><br>' +
 
 '<br>    ' +
 
-'<font size="4" color="#fff">Thế là em 21 tuổi rồi đấy. Lớn rồi anh chúc em có một năm thật hoàn hảo, với anh và em. Chúc em ra trường đúng hạn :v vui nhé <3.... (Không tiện kể .. nay tha cho e ha :p ) Xinh đẹp, chóng béo,yêu thương anh nhiều hơn nè, quan tâm anh nhiều hơn nữa,... Còn nhiều lắm. Chúc em sinh nhật vui vẻ nha. Yêu em <3 </font><br>' +
+'<font size="4" color="#fff">Bước sang tuổi 21 anh chúc em có một năm thật hoàn hảo với anh và em. Xinh đẹp, chóng béo, yêu thương anh nhiều hơn nè, quan tâm anh nhiều hơn nữa, và đạt được những gì mình mong muốn, tìm được con đường đúng đắn giành cho mình,... Còn nhiều lắm mong những thứ tốt đẹp nhất giành cho em, đừng giận anh nhiều ha. Chúc em sinh nhật vui vẻ nha. Yêu em <3 </font><br>' +
 
 '<br>' +
 
@@ -144,3 +144,8 @@
     </script>
 </body>
 </html>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $("#audio").play();
+    });
+</script>
